@@ -1,0 +1,3 @@
+[submodule "addons/sa2kit_godot"]
+	path = addons/sa2kit_godot
+	url = https://github.com/qxdqhr/sa2kit-godot.git
